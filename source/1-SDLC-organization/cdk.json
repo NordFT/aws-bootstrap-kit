@@ -5,7 +5,7 @@
     "github_alias": "NordFT",
     "github_repo_name": "aws-bootstrap-kit",
     "github_repo_branch": "main",
-    "email": "kasper@nordft.fi",
+    "email": "admin@nordft.fi",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "eu-north-1",
